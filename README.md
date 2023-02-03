@@ -1,5 +1,7 @@
 # Programa-Desenvolve
-Curso de Fullstack oferecido pelo programa Desenvolve do grupo Boticário
+Curso de Fullstack oferecido pelo programa Desenvolve do grupo Boticário.
+
+Nesta pasta, estarei fazendo os exercícios propostos pela Alura e também adicionando mais tópicos e transformando alguns estilos, visando assim ter um aprendizado melhor.
 
 Tecnologias usadas: 
 
