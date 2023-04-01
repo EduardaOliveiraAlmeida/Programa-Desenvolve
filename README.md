@@ -1,7 +1,8 @@
 # Programa-Desenvolve - Barbearia Alura
-Curso de Fullstack oferecido pelo programa Desenvolve do grupo Boticário.
 
-Esta pasta contém o projeto "Barbearia Alura", contendo site de contato, produtos e a própria landing page.
+Contém o projeto "Barbearia Alura", que compreende a página de contato, produtos e a própria landing page.
+
+Curso de Fullstack oferecido pelo programa Desenvolve do grupo Boticário.
 
 Tecnologias usadas: 
 
